@@ -1,0 +1,164 @@
+Target Distance: 50, Step Size: 2
+After 469 steps, the subject has the following location:
+(x, y) = (-16.3354, 47.8175)
+or
+(m, a) = (50.5308, 108.861)
+Average outward distance per step = 0.107741
+
+
+Target Distance: 50, Step Size: 2
+After 754 steps, the subject has the following location:
+(x, y) = (-43.7671, -24.6522)
+or
+(m, a) = (50.2324, -150.609)
+Average outward distance per step = 0.0666212
+
+
+Target Distance: 50, Step Size: 2
+After 654 steps, the subject has the following location:
+(x, y) = (-4.79251, 49.8081)
+or
+(m, a) = (50.0382, 95.496)
+Average outward distance per step = 0.0765109
+
+
+Target Distance: 50, Step Size: 2
+After 1211 steps, the subject has the following location:
+(x, y) = (5.02387, -50.9178)
+or
+(m, a) = (51.165, -84.3651)
+Average outward distance per step = 0.0422502
+
+
+Target Distance: 50, Step Size: 2
+After 218 steps, the subject has the following location:
+(x, y) = (-34.4972, -38.0959)
+or
+(m, a) = (51.3941, -132.162)
+Average outward distance per step = 0.235753
+
+
+Target Distance: 50, Step Size: 2
+After 300 steps, the subject has the following location:
+(x, y) = (31.9516, -39.2393)
+or
+(m, a) = (50.6026, -50.845)
+Average outward distance per step = 0.168675
+
+
+Target Distance: 50, Step Size: 2
+After 1096 steps, the subject has the following location:
+(x, y) = (13.1224, -48.8951)
+or
+(m, a) = (50.6254, -74.9771)
+Average outward distance per step = 0.046191
+
+
+Target Distance: 50, Step Size: 2
+After 486 steps, the subject has the following location:
+(x, y) = (-3.59277, -50.2106)
+or
+(m, a) = (50.339, -94.0928)
+Average outward distance per step = 0.103578
+
+
+Target Distance: 50, Step Size: 2
+After 282 steps, the subject has the following location:
+(x, y) = (45.7871, -23.4946)
+or
+(m, a) = (51.4631, -27.1636)
+Average outward distance per step = 0.182493
+
+
+Target Distance: 50, Step Size: 2
+After 828 steps, the subject has the following location:
+(x, y) = (37.6577, 35.5891)
+or
+(m, a) = (51.814, 43.3823)
+Average outward distance per step = 0.0625773
+
+
+Target Distance: 50, Step Size: 2
+After 220 steps, the subject has the following location:
+(x, y) = (51.0336, 0.361725)
+or
+(m, a) = (51.0349, 0.406104)
+Average outward distance per step = 0.231977
+
+
+Target Distance: 50, Step Size: 2
+After 918 steps, the subject has the following location:
+(x, y) = (-11.2825, -49.9236)
+or
+(m, a) = (51.1827, -102.735)
+Average outward distance per step = 0.0557545
+
+
+Target Distance: 50, Step Size: 2
+After 1078 steps, the subject has the following location:
+(x, y) = (1.11901, -50.3328)
+or
+(m, a) = (50.3452, -88.7264)
+Average outward distance per step = 0.0467024
+
+
+Target Distance: 50, Step Size: 2
+After 603 steps, the subject has the following location:
+(x, y) = (-28.6879, -42.4049)
+or
+(m, a) = (51.1974, -124.079)
+Average outward distance per step = 0.0849045
+
+
+Target Distance: 50, Step Size: 2
+After 653 steps, the subject has the following location:
+(x, y) = (49.4046, -9.53203)
+or
+(m, a) = (50.3158, -10.9203)
+Average outward distance per step = 0.0770533
+
+
+Target Distance: 50, Step Size: 2
+After 242 steps, the subject has the following location:
+(x, y) = (-25.9997, 43.2009)
+or
+(m, a) = (50.4213, 121.041)
+Average outward distance per step = 0.208352
+
+
+Target Distance: 50, Step Size: 2
+After 657 steps, the subject has the following location:
+(x, y) = (-35.2169, -35.9673)
+or
+(m, a) = (50.3376, -134.396)
+Average outward distance per step = 0.0766174
+
+
+Target Distance: 50, Step Size: 2
+After 544 steps, the subject has the following location:
+(x, y) = (21.0309, 46.1903)
+or
+(m, a) = (50.7528, 65.5198)
+Average outward distance per step = 0.0932955
+
+
+Target Distance: 50, Step Size: 2
+After 961 steps, the subject has the following location:
+(x, y) = (47.0528, -20.1207)
+or
+(m, a) = (51.1743, -23.1525)
+Average outward distance per step = 0.0532511
+
+
+Target Distance: 50, Step Size: 2
+After 108 steps, the subject has the following location:
+(x, y) = (30.2675, 42.0767)
+or
+(m, a) = (51.8321, 54.271)
+Average outward distance per step = 0.479927
+
+
+Max steps it takes are: 1211
+Min steps it takes are: 108
+Average steps it takes are: 614
+Bye.
